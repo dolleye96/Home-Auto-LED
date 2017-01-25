@@ -1,4 +1,4 @@
-# bitluniHomeAutomation (This is the cloned branch)
+# bitluniHomeAutomation (This is the cloned repository)
 WeMos ESP8266 Arduino sketch to control pins and WS2812 led strips.
 
 This is the sketch to the corresponding tutorial video:
